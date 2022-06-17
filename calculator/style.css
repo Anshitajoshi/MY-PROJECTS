@@ -1,0 +1,30 @@
+button {
+    width: 80;
+    height: 80;
+    font-size: 25;
+    border: solid;
+    
+}
+  
+.textinput {
+    width: 500;
+    height: 50;
+    border: solid;
+    font-size: 25;
+    color: #43d995;
+}
+  
+.main {
+    position: absolute;
+    border: solid;
+    background: linear-gradient(rgb(74, 74, 100),rgb(148, 40, 58));
+}
+body{
+    margin-top: 50px;
+    margin-left: 500px;
+    text-align: center;
+    background: linear-gradient(rgb(175, 41, 41),rgb(68, 197, 137));
+}
+a:hover{
+    color: aqua;
+}
